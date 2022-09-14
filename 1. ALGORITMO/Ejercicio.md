@@ -15,7 +15,7 @@
 ### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
     1. Inicio
-    2. Declara (Año_de_nacimiento, Año_actual, Edad): Números enteros
+    2. Declarar (Año_de_nacimiento, Año_actual, Edad): Números enteros
     3. Ingresar (Año_de_nacimiento, Año_actual)
     4. Edad = Año_actual - Año_de_nacimiento 
     5. Mostrar (Edad)
