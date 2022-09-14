@@ -1,12 +1,26 @@
 ### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
-    TU RESPUETA AQUI
+    Tarea: Ponerme los zapatos.
+    1. Inicio.
+    2. Tener calcetines y los zapatos.
+    3. Colocarme los calcetines a cada pie.
+    4. Introducir los píes a cada zapato.
+    5. Ajustar las agujetas de cada zapato.
+    6. Anudar cada zapato.
+    7. Fin.
+    
 
 
 
 ### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
-    TU RESPUESTA AQUI
+    1. Inicio
+    2. Declara (Año_de_nacimiento, Año_actual, Edad): Números enteros
+    3. Ingresar (Año_de_nacimiento, Año_actual)
+    4. Edad = Año_actual - Año_de_nacimiento 
+    5. Mostrar (Edad)
+    6. Fin
+    
 
 
 
