@@ -44,7 +44,7 @@
     1. Inicio
     2. Declarar (Precio inicial->Pi, Precio final->Pf, Incremento porcentual->IP): Números reales
     3. Ingresar (Pi, Pf)
-    4. Validar que Pf > Pi
+    // 4. Validar que Pf > Pi
     5. IP = [(Pf - Pi) / Pi] * 100
     6. Mostrar (IP%)
     7. Fin
