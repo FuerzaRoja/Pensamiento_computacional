@@ -13,19 +13,43 @@ X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
 
 X = (5 + 2 * 4) – (25 +. 5) * 2
 
-      TU RESPUESTA AQUI
+      X = (5 + 8) – (25 +. 5) * 2
+      X = (13) – (25 +. 5) * 2
+      X = (13) – (25.5) * 2
+      X = 13 – 51
+      X = -38
 
 X = (100/5^2 + 1) + 11 * 3
 
-      TU RESPUESTA AQUI
+      X = (100/25 + 1) + 11 * 3
+      X = (4 + 1) + 11 * 3
+      X = (5) + 11 * 3
+      X = (5) + 33
+      X = 38
 
 X = ((8-6)^2*3)^3.
 
-      TU RESPUESTA AQUI
+      X = ((2)^2*3)^3
+      X = (4*3)^3
+      X = 
+      X = 
+      X = 
+      X = 
+      X = 
+      X = 
+      
 
 x = ((8+5) *4) * (10-6)/4) 
 
-      TU RESPUESTA AQUI
+      X = 
+      X = 
+      X = 
+      X = 
+      X = 
+      X = 
+      X = 
+      X = 
+      X = 
 
 ## OPERADORES RELACIONALES
 Reto. Una empresa de logística ofrece a sus trabajadores un bono de
@@ -35,7 +59,9 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
-      TU RESPUESTA AQUI
+      Falta == 0 -> Bono
+      Falta == 2 -> Suspención
+      Falta >= 3 -> Baja
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
@@ -51,8 +77,8 @@ mayor que “F”. ¿Cuál es el menor de todos?
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45<120 OR 12<120) = (T Or T) = True
+2) (6! =6) && (12>22)) = (F && F) = False
+3) ¬ (128<145 && 12>9) = 
+4) “Daniela”< >”DANIELA” = 
+5) 10*20< >210 = 
