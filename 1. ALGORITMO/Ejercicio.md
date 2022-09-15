@@ -21,6 +21,20 @@
     5. Mostrar (Edad)
     6. Fin
     
+    ///////////////////////////////////////////////////////////////////////////
+    
+    1. Inicio
+    2. Declarar (Año_nacimiento, Año_actual, Edad): Números enteros (Int)
+                (Nombre): Cadena (String)
+    3. Asignar (Año_actual = 2022)
+    4. Mostrar ("Ingresa tu año de nacimiento")
+    5. Asignar (Año_nacimiento)
+    6. Edad = Año_actual - Año_nacimiento 
+    7. Mostrar ("¿Cuál es tu nombre?")
+    8. Asignar (Nombre)
+    9. Mostrar ("Hola", Nombre, "tu edad es ", Edad)
+    10. Fin
+    
 
 
 
