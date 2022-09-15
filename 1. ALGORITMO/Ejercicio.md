@@ -27,4 +27,10 @@
 
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
-    TU RESPUESTA AQUI
+    1. Inicio
+    2. Declarar (Precio inicial->Pi, Precio final->Pf, Incremento porcentual->IP): Números reales
+    3. Ingresar (Pi, Pf)
+    4. Validar que Pf > Pi
+    5. IP = [(Pf - Pi) / Pi] * 100
+    6. Mostrar (IP%)
+    7. Fin
