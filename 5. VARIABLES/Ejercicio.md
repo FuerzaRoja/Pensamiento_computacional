@@ -3,25 +3,25 @@
 ¿Qué tipo de dato debe tener una variable para representar la calificación promedio de un
 curso?
 
-      TU RESPUESTA AQUI
+      Flotante (Float)
 
 ¿Qué tipo de dato debe tener una variable para representar el número de personas en un
 hogar?
 
-      TU RESPUESTA AQUI
+      Entero (Int)
 
 ¿Qué tipo de dato debe tener una variable para contener el nombre de pila de una persona?
 
-      TU RESPUESTA AQUI
+      Cadena (String)
 
 ¿Qué tipo de dato debe tener una variable para registrar si está lloviendo o no?
 
-      TU RESPUESTA AQUI
+      Boleano
 
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
 
-      TU RESPUESTA AQUI
+      Flotante (Float)
       
 ## EJERCICIO 2
 
