@@ -54,11 +54,10 @@
     2. Declarar (Precio inicial->Pi, 
                  Precio final->Pf, 
                  Incremento porcentual->IP): Números reales (Float)
-    3. Asignar (Año_actual = 2022)
-    4. Mostrar ("Ingresa tu año de nacimiento")
-    5. Asignar (Año_nacimiento)
-    6. Edad = Año_actual - Año_nacimiento 
-    7. Mostrar ("¿Cuál es tu nombre?")
-    8. Asignar (Nombre)
-    9. Mostrar ("Hola", Nombre, "tu edad es ", Edad)
-    10. Fin
+    3. Mostrar ("Ingresa el precio inicial")
+    4. Asignar (Pi)
+    5. Mostrar ("Ingresa el precio final")
+    6. Asignar (Pf)
+    7. IP = ((Pf - Pi) / Pi) * 100
+    8. Mostrar ("El incremento procentual es: ", IP, "%")
+    9. Fin
