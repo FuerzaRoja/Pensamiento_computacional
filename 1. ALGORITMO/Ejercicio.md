@@ -57,7 +57,7 @@
         Escribir "Dame el año actual"
         Leer año_act
         edad<-año_act - año_nac
-        Escribir "Tu edad es ",edad
+        Escribir "Debido que naciste en el año ",año_nac," y estamos en el año ",año_act,", tu edad es ",edad
     FinAlgoritmo
 
 
