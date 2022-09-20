@@ -47,6 +47,18 @@
     8. Mostrar ("Tienes", edad, "años")
     9. Fin
     
+    ///////////////////////////////////////////////////////////////////////////
+    Algoritmo Calculo_edad
+        año_nac<-0
+        año_act<-0
+        edad<-0
+        Escribir "Dame tu año de nacimiento"
+        Leer año_nac
+        Escribir "Dame el año actual"
+        Leer año_act
+        edad<-año_act - año_nac
+        Escribir "Tu edad es ",edad
+    FinAlgoritmo
 
 
 
