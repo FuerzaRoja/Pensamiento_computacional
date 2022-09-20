@@ -35,6 +35,18 @@
     9. Mostrar ("Hola", Nombre, "tu edad es ", Edad)
     10. Fin
     
+    ///////////////////////////////////////////////////////////////////////////
+    
+    1. Inicio
+    2. Declarar (año_nac, año_act, edad): Números enteros (Int) // año_nac, año_act -> var. enteros - edad -> var. trabajo
+    3. Mostrar ("Dime tu año de nacimiento")
+    4. Asignar (año_nac)
+    5 Mostrar ("Dime el año en el que estamos")
+    6 Asignar (año_act)
+    7 edad = año_act - año_nac 
+    8. Mostrar ("Tienes", edad, "años")
+    9. Fin
+    
 
 
 
