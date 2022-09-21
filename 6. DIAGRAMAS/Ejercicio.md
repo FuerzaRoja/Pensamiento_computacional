@@ -33,8 +33,27 @@
         3. Mostrar ("Ingresa el número de metros a convertir")
         4. Asignar (metros)
         5. resultado = metros * yarda
-        6. Mostrar ("Los ", metros, "metros equivalen a ", yarda, "yardas")
+        6. Mostrar ("Los ", metros, " metros equivalen a ", resultado, "yardas")
         7. Fin
+        
+        ////////////////////////////////////////////
+        
+        Algoritmo Conversor
+            metros<-0
+            yarda<-1.09361
+            resultado<-0
+            Escribir "Ejemplo que convierte metros a yardas"
+            Escribir "Ingresa el número de metros a convertir"
+            Leer metros
+            resultado<-metros * yarda
+            Escribir "Los ", metros, " metros equivalen a ", resultado, " yardas"
+        FinAlgoritmo
+
+
+
+![image](https://user-images.githubusercontent.com/113545673/191584538-dd199012-3190-45e7-8417-cf6bb23dbb65.png)
+
+![image](https://user-images.githubusercontent.com/113545673/191584658-32f9e4a6-a297-43df-a86d-e622bc49c4c5.png)
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
@@ -46,5 +65,26 @@
        5. Mostrar ("Ingresa la altura del triangulo")
        6. Asignar (altura)
        7. area = (base * altura)/2
-       8. Mostrar ("El area del triangulo es: ")
+       8. Mostrar ("El area del triangulo es: ", area)
        9. Fin
+       
+       /////////////////////////////////////////
+       
+       Algoritmo AreaTriangulo
+            base<-0
+            altura<-0
+            area<-0
+            Escribir "Ejemplo cálculo del área de un triangulo"
+            Escribir "Ingresa la base del triangulo"
+            Leer base
+            Escribir "Ingresa la altura del triangulo"
+            Leer altura
+            area<-(base * altura)/2
+            Escribir "El area del triangulo es: ", area
+        FinAlgoritmo
+        
+ 
+![image](https://user-images.githubusercontent.com/113545673/191586280-9f2996eb-4a51-4723-82f4-a6e4ec63c2a8.png)
+
+![image](https://user-images.githubusercontent.com/113545673/191586429-5471a0d2-0c54-43f6-b4a6-01cecc0abb0a.png)
+
