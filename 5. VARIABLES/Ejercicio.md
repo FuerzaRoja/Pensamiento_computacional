@@ -44,6 +44,31 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
       14. Mostrar (nombre, " tu promedio es ", prom)
       15. Fin
       
+      /////////////////////////////////////////////////////////
+      
+      Algoritmo Promedio
+            nombre<-""
+            variable<-expresion
+            cal1<-0
+            cal2<-0
+            cal3<-0
+            cal4<-0
+            prom<-0
+            Escribir "*** Ejemplo cálculo de promedio ***"
+            Escribir "Ingresa tu nombre"
+            Leer nombre
+            Escribir "Ingresa la primera calificación"
+            Leer cal1
+            Escribir "Ingresa la segunda calificación"
+            Leer cal2
+            Escribir "Ingresa la tercera calificación"
+            Leer cal3
+            Escribir "Ingresa la cuarta calificación"
+            Leer cal4
+            prom<-(cal1+cal2+cal3+cal4)/4
+            Escribir nombre, " tu promedio es ", prom
+      FinAlgoritmo
+      
       
 ## EJERCICIO 3
 
