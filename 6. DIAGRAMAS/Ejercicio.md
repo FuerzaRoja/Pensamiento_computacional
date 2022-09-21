@@ -8,8 +8,23 @@
         5. resultado = numero * 9
         6. Mostrar ("El resultado de multiplicar ", numero, "por 9 es ", resultado)
         7. Fin
+        
+        /////////////////////////////////////////////
+        
+        Algoritmo Multiplicación
+            num<-0
+            resultado<-0
+            Escribir "Ejemplo número multiplicado por 9"
+            Escribir "Ingresa un número"
+            Leer num
+            resultado<-num * 9
+            Escribir "El resultado de multiplicar ", num, " por 9 es ", resultado
+        FinAlgoritmo
    
-    
+    ![image](https://user-images.githubusercontent.com/113545673/191580846-790a5d64-274b-4cb5-b09c-3345966323a5.png)
+
+    ![image](https://user-images.githubusercontent.com/113545673/191582234-7e88105f-3d7a-4226-af63-f51250225e21.png)
+
 
 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
       
