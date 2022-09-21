@@ -28,19 +28,21 @@ tienes?
 Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro calificaciones, una por periodo, de cada materia.
 
       1. Inicio
-      2. Declarar (cal1, cal2, cal3, cal4): Números entero (Int) 
-                  (prom): Número flotante (Float) 
-      3. Mostrar ("Dame la primera calificación")
-      4. Asignar (cal1)
-      5. Mostrar ("Dame la segunda calificación")
-      6. Asignar (cal2)
-      7. Mostrar ("Dame la tercera calificación")
-      8. Asignar (cal3)
-      9. Mostrar ("Dame la cuarta calificación")
-      10. Asignar (cal4)
-      11. prom = (cal1 + cal2 + cal3 + cal4) / 4
-      12. Mostrar ("El promedio es: ", prom)
-      13. Fin
+      2. Declarar (cal1=0.0, cal2=0.0, cal3=0.0, cal4=0.0, prom=0.0): Número flotante (Float) 
+                  (nombre): Cadena (String)
+      3. Mostrar ("Dame tu nombre")
+      4. Asignar (nombre)
+      5. Mostrar ("Dame la primera calificación")
+      6. Asignar (cal1)
+      7. Mostrar ("Dame la segunda calificación")
+      8. Asignar (cal2)
+      9. Mostrar ("Dame la tercera calificación")
+      10. Asignar (cal3)
+      11. Mostrar ("Dame la cuarta calificación")
+      12. Asignar (cal4)
+      13. prom = (cal1 + cal2 + cal3 + cal4) / 4
+      14. Mostrar (nombre, " tu promedio es ", prom)
+      15. Fin
       
       
 ## EJERCICIO 3
