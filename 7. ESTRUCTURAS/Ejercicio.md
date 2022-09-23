@@ -196,6 +196,7 @@
           Fin Si
         FinAlgoritmo
 
+![Diagrama sin título](https://user-images.githubusercontent.com/113545673/191892293-10df0ce6-e263-42eb-96c2-ffbd8ec487c7.jpg)
 
 ![image](https://user-images.githubusercontent.com/113545673/191886023-7b42cacf-1b2f-4346-b396-687ac6e80d47.png)
 
