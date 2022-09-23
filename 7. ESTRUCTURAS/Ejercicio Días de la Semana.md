@@ -36,7 +36,12 @@ ALGORITMO
              Fin Si
            Fin Si
         6. Fin
-        
+
+DIAGRAMA DE FLUJO
+
+![Dia_Semana](https://user-images.githubusercontent.com/113545673/192043735-5178f89e-6d7c-4b75-b7d6-02bdfb04b884.jpg)
+
+
 PSEINT
 
         Algoritmo DiaSemana
