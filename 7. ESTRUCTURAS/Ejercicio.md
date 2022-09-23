@@ -160,6 +160,46 @@
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
         Algoritmo
+        
+        1. Inicio
+        2. Declarar (num = 0): (int)
+        3. Mostrar ("Ingresa un número")
+        4. Asignar (num)
+        5. Si num == 0 entonces
+             Mostrar ("El número ingresado fue el 0")
+           Si No
+             Si num mod 2 == 0 entonces
+               Mostrar ("El número es par")
+             Si No
+               Mostrar ("El número es impar")
+             Fin Si
+           Fin Si
+        6. Fin
+   
+        ////////////////////////////////////////////////////////////////////////
+        
+        PSEINT
+        
+        Algoritmo NumeroImparPar
+          num<-0
+          Escribir "Programa para saber si un número es par o impar"
+          Escribir "Ingresa un número"
+          Leer num
+          Si num == 0 Entonces
+            Escribir "El número ingresado fue el 0"
+          SiNo
+            Si num mod 2 == 0 Entonces
+              Escribir "El número es par"
+            SiNo
+              Escribir "El número es impar"
+            Fin Si
+          Fin Si
+        FinAlgoritmo
+
+
+![image](https://user-images.githubusercontent.com/113545673/191886023-7b42cacf-1b2f-4346-b396-687ac6e80d47.png)
+
+![image](https://user-images.githubusercontent.com/113545673/191886152-89ce2b74-6c89-4bc3-9782-4be76ab172a5.png)
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -171,7 +211,7 @@ Ejemplo 1: Saber si un número es positivo (if)
         3. Mostrar ("Ingresa un número")
         4. Asignar (num)
         5. Si num > 0 entonces
-           Mostrar ("positivo")
+             Mostrar ("positivo")
            Fin Si
         6. Fin
         
@@ -196,9 +236,9 @@ Ejemplo 2: Saber si un número es positivo o negativo (if - else)
         3. Mostrar ("Ingresa un número")
         4. Asignar (num)
         5. Si num > 0 entonces
-           Mostrar ("positivo")
+             Mostrar ("positivo")
            Si No
-           Mostrar ("negativo")
+             Mostrar ("negativo")
            Fin Si
         6. Fin
         
