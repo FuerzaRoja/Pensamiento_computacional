@@ -85,4 +85,29 @@ PSEINT
 ![image](https://user-images.githubusercontent.com/113545673/192039653-ca1f6e71-5b01-4efe-8a7f-37fb10086a0f.png)
 
 
-        
+Ejemplo con sentencia SWITCH
+
+        Algoritmo DiaSemanaSwitch
+            dia<-0
+            Escribir "Ejercicio que muestre el día de la semana correspondiente al número que ingreso el usuario"
+            Escribir "Ingresa un número del 1 al 7"
+            Leer dia
+            Segun dia Hacer
+                1:
+                    Escribir "El día es lunes"
+                2:
+                    Escribir "El día es martes"
+                3:
+                    Escribir "El día es miércoles"
+                4:
+                    Escribir "El día es jueves"
+                5:
+                    Escribir "El día es viernes"
+                6:
+                    Escribir "El día es sábado"
+                7:
+                    Escribir "El día es domingo"
+                De Otro Modo:
+                    Escribir "El número ingresado no es válido"
+            Fin Segun
+        FinAlgoritmo
