@@ -296,6 +296,8 @@ Ejemplo 2: Saber si un número es positivo o negativo (if - else)
 
 Ejercicio de vocales
 
+Programa que muestra si una letra es vocal o consonante
+
 ALGORITMO
 
         1. Inicio
