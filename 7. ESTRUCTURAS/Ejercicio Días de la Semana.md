@@ -87,6 +87,26 @@ PSEINT
 
 Ejemplo con sentencia SWITCH
 
+ALGORITMO
+
+        1. Inicio
+        2. Declarar
+        3. Mostrar ("Ingresa un número del día que quieres saber: ")
+        4. Asignar (dia)
+        5. En Caso De dia Hacer:
+              Caso 1: ("Es domingo")
+              Caso 2: ("Es lunes")
+              Caso 3: ("Es martes")
+              Caso 4: ("Es miércoles")
+              Caso 5: ("Es jueves")
+              Caso 6: ("Es sábado")
+              Caso 7: ("Es domingo")
+           Si No
+              Mostrar ("Dato erroneo")
+        6. Fin
+
+PSEINT
+
         Algoritmo DiaSemanaSwitch
             dia<-0
             Escribir "Ejercicio que muestre el día de la semana correspondiente al número que ingreso el usuario"
