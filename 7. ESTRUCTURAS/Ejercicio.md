@@ -293,3 +293,47 @@ Ejemplo 2: Saber si un número es positivo o negativo (if - else)
         
 ![image](https://user-images.githubusercontent.com/113545673/191815455-7a1b5c59-a90a-46d0-9085-9d089fb2acfb.png)
 
+
+Ejercicio de vocales
+
+ALGORITMO
+
+        1. Inicio
+        3. Declarar (letra <- '': char)
+        3. Mostrar ("Ingresa una letra")
+        4. Asignar (letra) 
+        5. En Caso De letra Hacer
+             caso 'a' || 'A': Mostrar ("La letra ", letra, "es vocal")
+             caso 'e' || 'E': Mostrar ("La letra ", letra, "es vocal")
+             caso 'i' || 'I': Mostrar ("La letra ", letra, "es vocal")
+             caso 'o' || 'O': Mostrar ("La letra ", letra, "es vocal")
+             caso 'u' || 'U': Mostrar ("La letra ", letra, "es vocal")
+           Si No
+             Mostrar ("La letra ", letra, "es consonante")
+        6. Salir
+             
+![vocales_switch (1)](https://user-images.githubusercontent.com/113545673/192596903-78a735d0-8f94-4828-895b-870242a3f3ca.jpg)
+
+PSEINT
+
+        Algoritmo vocales
+            letra<-''
+            Escribir "Ingresa un letra"
+            Leer letra
+            Segun letra Hacer
+                'a' o 'A':
+                    Escribir "La letra ", letra, " es vocal"
+                'e' o 'E':
+                    Escribir "La letra ", letra, " es vocal"
+                'i' o 'I':
+                    Escribir "La letra ", letra, " es vocal"
+                'o' o 'O':
+                    Escribir "La letra ", letra, " es vocal"
+                'u' o 'U':
+                    Escribir "La letra ", letra, " es vocal"
+                De Otro Modo:
+                    Escribir "La letra ", letra, " es consonante"
+            Fin Segun
+        FinAlgoritmo
+             
+![image](https://user-images.githubusercontent.com/113545673/192598544-e2489673-1acc-4bd7-a801-0bf2ce5ee04d.png)
