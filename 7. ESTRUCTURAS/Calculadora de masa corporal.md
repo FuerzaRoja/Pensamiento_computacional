@@ -24,9 +24,9 @@ ALGORTIMO
         6. Asignar (altura)
         7. Mostrar ("Ingresa tu peso")
         8. Asignar (peso)
-        9. Si 0.3 < altura || altura < 2.5 Entonces
+        9. Si 0.3 < altura y altura < 2.5 Entonces
              ban_a = 1
-             Si 1 < peso || peso < 250 Entonces
+             Si 1 < peso y peso < 250 Entonces
                ban_p = 1
              Si No
                Mostrar ("Peso ingresado incorrecto")
@@ -34,13 +34,13 @@ ALGORTIMO
            Si No
              Mostrar ("Altura ingresada incorrecta")
            Fin Si
-       10. Si ban_a == 1 && ban_p == 1 Entonces
+       10. Si ban_a == 1 y ban_p == 1 Entonces
              IMC = peso / (altura * altura)
              Si IMC <= 18.5 Entonces
                opc = 1
-             Si IMC >= 18.6 && IMC <= 24.9
+             Si IMC >= 18.6 y IMC <= 24.9
                opc = 2
-             Si IMC >= 25 && IMC <= 29.9
+             Si IMC >= 25 y IMC <= 29.9
                opc = 3
              Si No
                opc = 4
