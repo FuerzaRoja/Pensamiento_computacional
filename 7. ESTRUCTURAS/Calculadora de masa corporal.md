@@ -26,15 +26,15 @@ ALGORTIMO
         8. Asignar (peso)
         9. Si 0.3 < altura y altura < 2.5 Entonces
              ban_a = 1
-             Si 1 < peso y peso < 250 Entonces
-               ban_p = 1
-             Si No
-               Mostrar ("Peso ingresado incorrecto")
-             Fin Si
            Si No
              Mostrar ("Altura ingresada incorrecta")
            Fin Si
-       10. Si ban_a == 1 y ban_p == 1 Entonces
+       10. Si 1 < peso y peso < 250 Entonces
+             ban_p = 1
+           Si No
+               Mostrar ("Peso ingresado incorrecto")
+           Fin Si
+       11. Si ban_a == 1 y ban_p == 1 Entonces
              IMC = peso / (altura * altura)
              Si IMC <= 18.5 Entonces
                opc = 1
@@ -46,13 +46,13 @@ ALGORTIMO
                opc = 4
              Fin Si
            Fin Si
-       11. En Caso De opc Hacer:
+       12. En Caso De opc Hacer:
              Caso 1: Mostrar ("Hola ", nombre, " tu indice de masa corporal es: ", IMC, " por lo que estas bajo de peso")
              Caso 2: Mostrar ("Hola ", nombre, " tu indice de masa corporal es: ", IMC, " por lo que tu peso es correcto")
              Caso 3: Mostrar ("Hola ", nombre, " tu indice de masa corporal es: ", IMC, " por lo que estas en sobrepeso")
              Caso 4: Mostrar ("Hola ", nombre, " tu indice de masa corporal es: ", IMC, " por lo que estas en obesidad")
               Si No: Mostrar ("Error de calculo")
-       12. Fin 
+       13. Fin 
              
         
              
