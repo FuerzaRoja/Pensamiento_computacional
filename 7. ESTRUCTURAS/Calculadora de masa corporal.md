@@ -56,7 +56,7 @@ ALGORTIMO
              
 DIAGRAMA DE FLUJO
 
-
+![Diagrama_IMC](https://user-images.githubusercontent.com/113545673/192678870-cd168c47-1659-45ce-867c-2380ad8eae5c.jpeg)
 
 PSEINT
 
